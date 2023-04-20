@@ -14,5 +14,5 @@ galaxy_info:
         - 8
   galaxy_tags:
     - balancer
-dependencies:
+dependencies: []
 # - conf_base
